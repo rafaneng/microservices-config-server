@@ -3,4 +3,4 @@ spring:
     name: greeting-service
 greeting-service:
   greeting: "Olá"
-  default-value: "Mundo Perf"
+  default-value: "Mundo Perf Alterado"
